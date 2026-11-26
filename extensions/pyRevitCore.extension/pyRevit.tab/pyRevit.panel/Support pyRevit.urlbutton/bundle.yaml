@@ -2,7 +2,11 @@ title:
   en_us: |-
     Support
     pyRevit
+  pt_br: |-
+    Apoie o
+    pyRevit
 tooltip:
   en_us: pyRevit is an open-source extension for Autodesk Revit that enhances its functionality and productivity. It is alive thanks to your contributions, both financial and through code. Support us and donate through this link.
+  pt_br: O pyRevit é uma extensão de código aberto para o Autodesk Revit que amplia seus recursos e a produtividade. Ele continua vivo graças às suas contribuições, tanto financeiras quanto de código. Apoie-nos e doe através deste link.
 hyperlink: "https://opencollective.com/pyrevitlabs/tiers"
 context: zero-doc

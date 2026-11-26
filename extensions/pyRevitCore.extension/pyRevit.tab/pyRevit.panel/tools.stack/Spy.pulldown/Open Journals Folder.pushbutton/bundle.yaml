@@ -6,6 +6,7 @@ title:
   chinese_s: 打开日志文件夹
   es_es: Abrir la carpeta de los archivos de registro
   de_de: Öffne den Ordner mit den Journal Dateien
+  pt_br: Abrir a Pasta de Journals
 tooltip:
   en_us: Opens the Revit journals folder for current user
   ko: 현재 사용자의 Revit 저널 폴더를 엽니다
@@ -17,3 +18,4 @@ tooltip:
     Es wird der Ordner mit den Revit Journal Dateien des aktuellen Benutzers geöffnet. 
     Hier kann man untersuchen, welche Aktion zuletzt durchgeführt wurde. Dies ist 
     vorallem hilfreich, wenn Revit abgestürzt ist, um den Fehler reproduzieren zu können.
+  pt_br: Abre a pasta de journals do Revit do usuário atual.

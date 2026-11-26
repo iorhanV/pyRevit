@@ -1,8 +1,14 @@
 title:
   en_us: "Python\nShell"
+  pt_br: "Shell\nPython"
 tooltip:
   en_us: >-
     Open the interactive IronPython shell running on the engine pyRevit is currently loaded
     with. Type Python and see results immediately, with syntax highlighting and CTRL+SPACE
     autocompletion. Shift+Click to choose how it opens (modal, modeless, or docked).
+  pt_br: >-
+    Abre o shell interativo IronPython executando no engine com o qual o pyRevit está carregado
+    no momento. Digite Python e veja os resultados imediatamente, com realce de sintaxe e
+    autocompletar com CTRL+ESPAÇO. Shift+Clique para escolher como abrir (modal, não modal ou
+    acoplado).
 context: zero-doc

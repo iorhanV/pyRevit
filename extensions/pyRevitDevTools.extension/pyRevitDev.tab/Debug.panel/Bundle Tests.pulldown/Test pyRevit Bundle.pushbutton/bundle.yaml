@@ -6,6 +6,7 @@ title:
   chinese_s: 测试包
   es_es: Probar paquete pyRevit (Título personalizado)
   de_de: Test pyRevit Bundle (Titel personalisiert)
+  pt_br: Testar Bundle do pyRevit (Título personalizado)
 tooltip: |
   Test pyRevit Bundle Tooltip
   {{template_test}}
